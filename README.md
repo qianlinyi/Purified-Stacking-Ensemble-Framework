@@ -1,5 +1,7 @@
 # Source code for "A Purified Stacking Ensemble Framework for Cytology Classification"
 
+[Paper link](https://link.springer.com/chapter/10.1007/978-3-031-53308-2_20)
+
 All the experiments are conducted on GeForce RTX 3080 with TensorFlow deep learning framework. 
 
 ## 1. Dataset preparation
