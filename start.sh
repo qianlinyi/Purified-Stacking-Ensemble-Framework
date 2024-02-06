@@ -1,0 +1,1 @@
+python main.py --path ../SIPaKMeD --epoch_number 10
